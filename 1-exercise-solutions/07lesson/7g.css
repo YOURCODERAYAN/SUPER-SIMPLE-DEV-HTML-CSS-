@@ -1,0 +1,43 @@
+.image{
+width:60px;
+height:60px;
+padding-top:7px;
+padding-bottom:7px;
+padding-left:4px;
+padding-right:4px;
+margin-left:auto;
+margin-right:auto;
+border:none;
+border-radius:900px;
+vertical-align: middle;
+display:inline-block;
+
+
+
+}
+.main{
+vertical-align: middle;
+display:inline-block;
+margin-right:90px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:grey;
+font-size: 18px;
+
+
+
+}
+.buttonb{
+
+    background-color: rgb(24, 189, 244);
+    border:none;
+    padding-top:6px;
+    padding-bottom:7px;
+    padding-left:10px;
+    padding-right:10px;
+    border-radius:17px;
+    color:white;
+    font-family: 'Segoe UI';
+    font-weight: 700;
+    vertical-align: middle;
+
+}
