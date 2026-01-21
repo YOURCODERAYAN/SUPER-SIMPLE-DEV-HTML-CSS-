@@ -1,0 +1,21 @@
+.newheading{
+
+    text-align: center;
+    font-family: Montserrat;
+    margin-top:0px;
+    margin-bottom:3px;
+    display: block;
+
+
+
+}
+.newpara{
+
+    text-align: center;
+    font-family: Montserrat;
+    display:block
+}
+.underline{
+    text-decoration: underline;
+    
+}
