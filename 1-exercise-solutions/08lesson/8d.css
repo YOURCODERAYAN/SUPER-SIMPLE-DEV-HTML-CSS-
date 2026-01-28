@@ -1,0 +1,98 @@
+.newDiv{
+    width:500px;
+    text-align: center;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:auto;
+    margin-top:auto;
+
+
+}
+.secondbox{
+     width:190px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:10px;
+    border-radius:15px ;
+    border-width: 2px;
+    font-size:12px;
+    margin-left:6px;
+    padding-left:8px;
+}
+.firstbox{
+    width:190px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:10px;
+    border-radius:15px ;
+    border-width: 2px;
+    font-size:12px;
+    padding-left:8px;
+
+}
+
+.thirdbox{
+
+    width:500px;
+    text-align: center;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px;
+    margin-bottom:auto;
+}
+
+.thirdbox2{
+    width:389;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:115px;
+    border-radius: 21px;
+    border-color: grey;
+    border-width: 2px;
+    font-size:12px;
+    padding-left:8px;
+    
+
+}
+
+
+.newButton{
+    width:500px;
+    text-align:center;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px;
+    margin-bottom:auto;
+
+}
+
+
+.newButton2{
+
+    padding-top:20px;
+    padding-bottom:20px;
+    width:389;
+    background-color: rgb(59, 203, 247);
+    border:none;
+    color:white;
+    border-radius:15px;
+    box-shadow: 0px 1px 5px rgba(0,0,0,0.25);
+
+
+
+}
+
+
+    
+   
+   
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+.paragraph{
+    display:inline-block;
+    width:200px;
+    vertical-align: middle;
+}
+.firstb{
+    display:inline-block;
+    vertical-align: middle;
+}
+.secondb{
+    display:inline-block;
+    vertical-align: middle;
+}

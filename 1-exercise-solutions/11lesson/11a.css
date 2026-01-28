@@ -1,0 +1,17 @@
+.maindiv{
+
+    display:flex;
+    flex-direction: row;
+
+}
+
+
+.item1{
+    background-color: aqua;
+    width:200px;
+}
+
+.item2{
+    background-color: orange;
+    width:75px;
+}

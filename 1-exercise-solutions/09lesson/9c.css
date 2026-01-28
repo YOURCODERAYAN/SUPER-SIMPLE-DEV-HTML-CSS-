@@ -1,0 +1,42 @@
+.container{
+width:200px;
+text-align:left;
+border:none;
+box-shadow: 0px 1px 5px rgba(0,0,0,0.5);
+padding-right:6px;
+padding-bottom:6px;
+}
+
+.image{
+   width:206px;
+   height:200px;
+
+}
+
+.firstpara{
+margin-left:8px;
+color:black;
+font-family: Arial, Helvetica, sans-serif;
+margin-bottom:6px;
+font-weight: bold;
+}
+
+.secondpara{
+
+margin-left:8px;
+font-family: Arial;
+font-size:11px;
+color:grey;
+}
+
+.newButton{
+margin-left:8px;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:3px;
+padding-right:3px;
+background-color: rgb(76, 76, 255);
+border:none;
+border-radius:4px;
+color:white;
+}

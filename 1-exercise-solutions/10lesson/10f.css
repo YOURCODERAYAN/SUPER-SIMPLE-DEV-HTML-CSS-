@@ -1,0 +1,15 @@
+.newTask{
+    display:grid;
+    grid-template-columns: 200px 200px 200px;
+    row-gap: 10px;
+    column-gap: 10px;
+    
+}
+
+.new{
+    padding:0.5em;
+    border:2px solid blue;
+    border-radius: 0.5em;
+    color:white;
+
+}

@@ -1,0 +1,100 @@
+.firstdiv{
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    text-align: center;
+
+}
+.seconddiv{
+
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    text-align: center;
+
+}
+.thirddiv{
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    text-align:center;
+
+}
+.fourthdiv{
+    width:500px;
+    margin-left:auto;
+    display:block;
+    margin-right:auto; 
+    
+}
+.paragraph{
+text-align: center;
+font-family:Verdana;
+font-size:42px;
+font-weight: 500;
+
+
+
+
+}
+
+.pickup{
+    width:479px;
+    padding-top:17px;
+    padding-bottom:17px;
+    padding-right:20px;
+    padding-left:10px;
+    margin-bottom:10px;
+    margin-left:8px;
+    margin-right:8px;
+    border:none;
+    border-color:grey;
+    border-radius:10px;
+    font-size: 14px;
+    font-weight: 200;
+    background-color: rgba(227, 220, 220,0.5);
+
+}
+.dropup{
+    width:479px;
+    padding-top:17px;
+    padding-bottom:17px;
+    padding-right:20px;
+    padding-left:10px;
+    margin-bottom:15px;
+    margin-right:8px;
+    margin-left:8px;
+    border:none;
+    border-color: grey;
+    border-radius:10px;
+    font-family:Verdana;
+    font-size:14px;
+    font-weight: 200;
+    background-color: rgba(227,220,220,0.5);
+
+}
+.request{
+    width:100px;
+    margin-left:12px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border:none;
+    background-color: black;
+    color:white;
+    margin-right:14px;
+    box-shadow: 0px 1px 5px rgba(0,0,0,0.25);
+
+
+
+
+}
+
+.plan{
+    padding-top:10px;
+    padding-bottom:10px;
+    border:none;
+    box-shadow:0px 1px 5px rgba(0,0,0,0.25);
+}
